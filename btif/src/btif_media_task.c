@@ -153,8 +153,8 @@ enum {
 #endif
 
 /* High quality quality setting @ 48 khz */
-#define DEFAULT_SBC_BITRATE 229
-#define SBC_HIGH_QUALITY_BITRATE 229 
+#define DEFAULT_SBC_BITRATE 328
+#define SBC_HIGH_QUALITY_BITRATE 345
 
 #define AVDTP_HDR_SIZE                           12
 #define A2DP_HDR_SIZE                            1
